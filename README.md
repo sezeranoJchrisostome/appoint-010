@@ -1,4 +1,4 @@
-# school_d_project
+# Appoint
 
 A new Flutter project.
 
